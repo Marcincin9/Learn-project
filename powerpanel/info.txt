@@ -1,0 +1,39 @@
+mkdir tworzyplik - tworzenie folderu lub pliku
+ls - pokazuje dostepne pliki lub foldery
+cd dofolderu - przechodzi do danego folderu
+cd .. - wraca do folderu wyzej
+>> plik.html - tworzenie pliku
+rm plik.html - usuwanie pliku/folderu
+rm *.html - usuwa wszystkie pliki html
+dir - pokazuje wszystkie stworzone pliki
+
+git init - tworzy pliki Gita 
+git config --global user.name "Marcin Olszynski" - ustawiam nazwe
+git config --global user.email "marcino@gmx.com" - ustawiam maila
+git config --global core.editor - pokazuje sciezke do Visual Code
+git add plik.html - dodaje plik do poczekalni
+git add --all - dodaje wszystkie pliki w poczekalni(zmodyfikowane lub nowe)
+git status - wyswietla utworzone pliki
+git commit -  zapisuje plik z poczekani do 
+git log - informacje o commitach
+
+cd ~ - wychodzi do glownego folderu
+
+pwd - pokazuje sciezke w ktorej sie znajdujemy
+
+notepad .gitconfig - wyswietli zapisane dane w pliku konfiguracyjnym
+
+git config --global --unset user.mail - usuwa maila globalnego
+
+git init --help
+
+git diff - pokazuje jakie zmiany zostaly wprowadzone w plikach
+
+git commit -a -m "change plik.txt"  - komituje wszystkie pliki zmodyfikowane plus dodaje opis
+
+git mv plik1.txt plik2.txt - zmienia (przenosi) plik1 na plik2
+
+$ git clone plik plik2
+
+git commit --amend - pozwala mieni nazwe komitu
+
