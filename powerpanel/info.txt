@@ -35,5 +35,5 @@ git mv plik1.txt plik2.txt - zmienia (przenosi) plik1 na plik2
 
 $ git clone plik plik2
 
-git commit --amend - pozwala mieni nazwe komitu
+git commit --amend - pozwala zmienic nazwe komitu
 
